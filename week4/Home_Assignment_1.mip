@@ -1,0 +1,16 @@
+Home_Assignment_1
+C:\MipsIT\Exercises\Week_4\Home_Assignment_1\
+Objects\
+1
+C:\MipsIT\Exercises\Week_4\Home_Assignment_1\Home_Assignment_1.s
+0
+0
+1
+minic
+0
+0
+0
+0
+1
+objcopy.exe -O srec Home_Assignment_1.out Home_Assignment_1.srec
+80020000 start
